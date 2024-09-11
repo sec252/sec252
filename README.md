@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.daily.dev/francescociulla"><img src="./devcard.png" width="356" alt="Francesco's Dev Card"/></a>
+
