@@ -1,3 +1,4 @@
+# Pulls updated DevCard from daily.dev every night.
 name: daily-devcard
 on:
   workflow_dispatch:
