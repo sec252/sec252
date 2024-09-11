@@ -10,7 +10,7 @@ I'm a software/systems engineer and aspiring vulnerability researcher with a dee
 ## Thanks for stopping by!
 
 ---
-<a href="https://app.daily.dev/francescociulla"><img src="./devcard.png" width="356" alt="Francesco's Dev Card"/></a>
+<a href="https://app.daily.dev/bruh_its_sam"><img src="./devcard.png" width="356" alt="bruh_its_sam's Dev Card"/></a>
 
 <!--
 **sec252/sec252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
