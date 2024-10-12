@@ -4,7 +4,7 @@ I'm a software/systems engineer and aspiring vulnerability researcher with a dee
 
 - 🌱 I’m continuously learning about cybersecurity and software development.
 - ✍️ I've been working on a [blog](https://nullexport.substack.com/) that explores the intersection of privacy, security, and social media.
-- 💬 Feel free to reach out if you'd like to collaborate or chat about tech!
+- 💬 Feel free to reach out if you'd like to collaborate or chat!
 - 📫 **How to reach me:** Email should work.
 
 ## Thanks for stopping by!
