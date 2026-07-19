@@ -22,7 +22,7 @@ I enjoy building software, automating infrastructure, experimenting with new tec
 * 🛠️ Building open-source tools and infrastructure projects
 * 🔬 Researching AI, digital literacy, and cybersecurity
 * 🏠 Expanding a self-hosted home lab for experimentation
-* ✍️ Writing technical articles and research at **[NullExport](https://nullexport.substack.com/)**
+* ✍️ Writing technical articles and research at **[NullExport](https://nullexport.com/)**
 
 ## Philosophy
 
